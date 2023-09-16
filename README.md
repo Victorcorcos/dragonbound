@@ -4,7 +4,7 @@
 
 # DragonBound Automation Repository 🤖
 
-Welcome to the DragonBound Automation Repository! This project is dedicated to automating various tasks within the DragonBound game to enhance user experience and efficiency. Our goal is to streamline gameplay by alerting users when someone enters a room and optimizing character abilities through clothing combinations.
+Welcome to the DragonBound Automation Repository! This project is dedicated to automating various tasks within the DragonBound game to enhance user experience and efficiency. It's goal is to streamline gameplay by alerting users when someone enters a room and optimizing character ability stats through clothing combinations.
 
 ## Table of Contents 📃
 
