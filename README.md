@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/e7CM0Re.png" alt="DragonBound Logo" width="200" height="200"/>
 </p>
 
-# DragonBound Automation Repository 🤖
+# DragonBound Automations
 
-Welcome to the DragonBound Automation Repository! This project is dedicated to automating various tasks within the DragonBound game to enhance user experience and efficiency. It's goal is to streamline gameplay by alerting users when someone enters a room and optimizing character ability stats through clothing combinations.
+Welcome to the DragonBound Automations Repository! This project is dedicated to automating various tasks within the DragonBound game to enhance user experience and efficiency. It's goal is to streamline gameplay by alerting users when someone enters a room and optimizing character ability stats through clothing combinations.
 
 ## Table of Contents 📃
 
