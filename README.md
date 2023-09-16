@@ -24,7 +24,7 @@ DragonBound is an exciting online game that revolves around strategic gameplay a
 
 ### 1. Real-time Room Entry Alerts 🚨
 
-- When someone enters the game room, this automation solution alerts users in real-time, allowing for quicker response times, allowing a more fluid & dynamic gameplay.
+- When someone enters the game room, this automation solution alerts users in real-time, allowing for quicker response times thus a more fluid & dynamic gameplay.
 
 ### 2. Clothing Combination Optimization 🧥
 
