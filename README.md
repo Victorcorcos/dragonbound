@@ -8,12 +8,13 @@ Welcome to the DragonBound Automation Repository! This project is dedicated to a
 
 ## Table of Contents 📃
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#introduction-)
+- [Features](#features-)
+- [How It Works](#how-it-works-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
+
 
 ## Introduction 🐉
 
