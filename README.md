@@ -11,7 +11,7 @@ Welcome to the DragonBound Automation Repository! This project is dedicated to a
 - [Introduction](#introduction-)
 - [Features](#features-)
 - [How It Works](#how-it-works-)
-- [Usage](#usage-)
+- [Usage](#usage-%EF%B8%8F)
 - [Contributing](#contributing-)
 - [License](#license-)
 
