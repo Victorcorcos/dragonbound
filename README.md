@@ -65,5 +65,3 @@ This repository is licensed under the [MIT License](LICENSE), allowing you to us
 ---
 
 *This repository is maintained and developed by [Victor Cordeiro Costa](https://www.linkedin.com/in/victor-costa-0bba7197/). For inquiries, partnerships, or support, don't hesitate to get in touch.
-
-Thank you for considering our DragonBound Automation Repository. We believe this project showcases the creativity, technical expertise, and dedication of our team. If you have any inquiries or would like to discuss potential collaborations, please don't hesitate to contact us. Let's elevate the DragonBound gaming experience together!
